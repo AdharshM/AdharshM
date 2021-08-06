@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i.gifer.com/YDU1.gif" alt="gif">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnl.pinterest.com%2Fpin%2F404549979032120085%2F&psig=AOvVaw2eezuddHZN5ILNBNSjADuQ&ust=1628339953565000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJi1qZe1nPICFQAAAAAdAAAAABAD" alt="gif">
 
 
 I am Adharsh. I am enthusiastic about learning new tech. Also I am a competitive programmer and love building or say automating stuff using Python.
