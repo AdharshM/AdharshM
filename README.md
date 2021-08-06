@@ -3,7 +3,7 @@
 I am Adharsh. I am enthusiastic about learning new tech. Also I am a competitive programmer and love building or say automating stuff using Python.
 
 ![Adharsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdharshM&count_private=true&show_icons=true&theme=radical)
-
+![Adharsh's GitHub stats](https://github-readme-stats.vercel.app/api/top-lang/username=AdharshM)
 
 <!--
 **AdharshM/AdharshM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
