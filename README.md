@@ -4,7 +4,7 @@ I am Adharsh. I am enthusiastic about learning new tech. Also I am a competitive
 
 ![Adharsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdharshM&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdharshM&langs_count=10&theme=radical&layout=compact)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdharshM)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hey_adharsh)
 
 
 
