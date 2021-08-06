@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Adharsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdharshM)](https://github.com/AdharshM/github-readme-stats)
+![Adharsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdharshM)
 
 
 <!--
