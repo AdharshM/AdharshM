@@ -1,6 +1,6 @@
 <h1> Hi there 👋 </h1>
 
-<img src="https://media1.tenor.com/images/056c584d9335fcabf080ca43e583e3c4/tenor.gif?itemid=8994845" style="align:center" alt="gif">
+<img src="https://media1.tenor.com/images/056c584d9335fcabf080ca43e583e3c4/tenor.gif?itemid=8994845" style="align=center" alt="gif">
 
 
 I am Adharsh. I am enthusiastic about learning new tech. Also I am a competitive programmer and love building or say automating stuff using Python.
