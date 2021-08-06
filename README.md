@@ -2,7 +2,7 @@
 
 I am Adharsh. I am enthusiastic about learning new tech. Also I am a competitive programmaer. I love building or say automating stuff using Python.
 
-![Adharsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdharshM%show_icons=true&theme=gruvbox)
+![Adharsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdharshM%show_icons=true&theme=radical)
 
 
 <!--
