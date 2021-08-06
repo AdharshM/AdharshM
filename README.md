@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://vignette.wikia.nocookie.net/cf294dab-2e1f-4b66-870a-e1989e7eea6b/scale-to-width-down/1200" alt="gif">
+<img src="https://i.gifer.com/YDU1.gif" alt="gif">
 
 
 I am Adharsh. I am enthusiastic about learning new tech. Also I am a competitive programmer and love building or say automating stuff using Python.
